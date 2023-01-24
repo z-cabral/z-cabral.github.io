@@ -9,8 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #f5f5f5;
-  color: #4e4e4e;
+  background-color: rgb(34, 34, 34);
+  color: rgb(190, 190, 190);
 }
 
 h1,
@@ -19,11 +19,11 @@ h3,
 h4,
 h5,
 h6 {
-  color: #1e1e1e;
+  color: #ffffff;
 }
 
 a {
-  color: #1e1e1e;
+  color: #ffffff;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -49,7 +49,7 @@ a:hover {
 
 .color-text-a {
   text-decoration: none;
-  color: #4e4e4e;
+  color: #ffffff;
 }
 
 .box-shadow,
@@ -144,7 +144,7 @@ a:hover {
 /*--/ Title s /--*/
 .title-s {
   font-weight: 600;
-  color: #1e1e1e;
+  color: #ffffff;
   font-size: 1.1rem;
 }
 
@@ -162,7 +162,7 @@ a:hover {
 
 .subtitle-a {
   text-decoration: none;
-  color: #4e4e4e;
+  color: rgb(190, 190, 190);
 }
 
 .line-mf {
@@ -199,7 +199,7 @@ a:hover {
 .box-shadow-full {
   padding: 3rem 1.25rem;
   position: relative;
-  background-color: #fff;
+  background-color: rgb(18, 18, 18);
   margin-bottom: 3rem;
   z-index: 2;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
@@ -233,7 +233,7 @@ a:hover {
 
 .socials .ico-circle:hover {
   background-color: #0000ff;
-  color: #fff;
+  color: rgb(18, 18, 18);
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
 }
@@ -287,19 +287,19 @@ a:hover {
   width: 18px;
   height: 7px;
   margin: 5px 5px;
-  background: #cde1f8;
-  border: 0px solid #cde1f8;
+  background: #1B1B1B;
+  border: 0px solid #1B1B1B;
   display: block;
   transition: all 0.6s ease-in-out;
   cursor: pointer;
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #cde1f8;
+  background-color: #1B1B1B;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #1B1B1B;
+  background-color: #cde1f8;
   width: 25px;
 }
 
@@ -319,7 +319,7 @@ a:hover {
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
-  color: #fff;
+  color: rgb(18, 18, 18);
   top: auto;
   left: auto;
   right: 30px;
@@ -347,13 +347,13 @@ a:hover {
 
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: rgb(18, 18, 18);
   line-height: 0;
 }
 
 .back-to-top:hover {
   background: #0000ff;
-  color: #fff;
+  color: rgb(18, 18, 18);
 }
 
 .back-to-top.active {
@@ -370,7 +370,7 @@ a:hover {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: rgb(18, 18, 18);
 }
 
 #preloader:before {
@@ -429,14 +429,14 @@ a:hover {
 
 .button:hover {
   background-color: #0000d3;
-  color: #fff;
+  color: rgb(18, 18, 18);
   transition: all 500ms ease;
 }
 
 .button-a {
   text-decoration: none;
   background-color: #0000ff;
-  color: #fff;
+  color: rgb(18, 18, 18);
   border-color: #cde1f8;
 }
 
@@ -474,11 +474,11 @@ a:hover {
 }
 
 #header .logo a {
-  color: #fff;
+  color: rgb(18, 18, 18);
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 60px;
 }
 
 .logo img {
@@ -522,7 +522,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: #fff;
+  color: rgb(18, 18, 18);
   font-size: 16px;
   font-weight: 600;
   padding: 0;
@@ -548,7 +548,7 @@ a:hover {
   bottom: -6px;
   left: 0;
   width: 0;
-  background-color: #fff;
+  background-color: rgb(18, 18, 18);
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
@@ -564,7 +564,7 @@ a:hover {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #fff;
+  color: rgb(18, 18, 18);
 }
 
 .navbar .dropdown ul {
@@ -577,7 +577,7 @@ a:hover {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #fff;
+  background: rgb(18, 18, 18);
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -590,7 +590,7 @@ a:hover {
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
-  color: #4e4e4e;
+  color: rgb(190, 190, 190);
 }
 
 .navbar .dropdown ul a i {
@@ -636,7 +636,7 @@ a:hover {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
+  color: rgb(18, 18, 18);
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -680,7 +680,7 @@ a:hover {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: rgb(18, 18, 18);
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -699,7 +699,7 @@ a:hover {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #4e4e4e;
+  color: rgb(190, 190, 190);
 }
 
 .navbar-mobile a:hover,
@@ -721,7 +721,7 @@ a:hover {
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: #fff;
+  background: rgb(18, 18, 18);
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
@@ -759,7 +759,7 @@ a:hover {
   font-family: "Striped";
   height: 100vh;
   position: relative;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 .hero .hero-content {
@@ -779,7 +779,7 @@ a:hover {
 }
 
 .hero .hero-title {
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-weight: 600;
   font-size: 3rem;
 }
@@ -838,7 +838,7 @@ a:hover {
 }
 
 .hero-single .breadcrumb a {
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 /*--------------------------------------------------------------
@@ -865,7 +865,7 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #4e4e4e;
+  color: rgb(190, 190, 190);
 }
 
 .skill-mf .progress {
@@ -884,7 +884,7 @@ a:hover {
 # Services
 --------------------------------------------------------------*/
 .service-box {
-  background-color: #fff;
+  background-color: rgb(18, 18, 18);
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
@@ -893,7 +893,7 @@ a:hover {
 
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
-  color: #fff;
+  color: rgb(18, 18, 18);
   background-color: #0000ff;
   box-shadow: 0 0 0 10px #cde1f8;
 }
@@ -923,14 +923,14 @@ a:hover {
 }
 
 .service-box .s-description {
-  color: #4e4e4e;
+  color: rgb(190, 190, 190);
 }
 
 /*--------------------------------------------------------------
 # Counter
 --------------------------------------------------------------*/
 .counter-box {
-  color: #fff;
+  color: rgb(18, 18, 18);
   text-align: center;
 }
 
@@ -948,7 +948,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.5;
-  box-shadow: 0 0 0 10px #cde1f8;
+  box-shadow: 0 0 0 10px rgb(18, 18, 18);
 }
 
 .counter-num .counter {
@@ -963,7 +963,7 @@ a:hover {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  background-color: #fff;
+  background-color: rgb(18, 18, 18);
 }
 
 .work-box:hover img {
@@ -984,22 +984,22 @@ a:hover {
 }
 
 .work-content .w-more {
-  color: #4e4e4e;
+  color: rgb(190, 190, 190);
   font-size: 0.8rem;
 }
 
 .work-content .w-more .w-ctegory {
-  color: #0000ff;
+  color: #4e4eff;
 }
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #0000ff;
+  color: #4e4eff;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #0000ff;
+  color: #4e4eff;
 }
 
 .work-content .w-like .num-like {
@@ -1029,7 +1029,7 @@ a:hover {
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: rgb(18, 18, 18);
   opacity: 1;
   border: 1px solid #0000ff;
 }
@@ -1079,7 +1079,7 @@ a:hover {
 # Testimonials
 --------------------------------------------------------------*/
 .testimonial-box {
-  color: #fff;
+  color: rgb(255, 255, 255);
   text-align: center;
 }
 
@@ -1092,7 +1092,7 @@ a:hover {
 }
 
 .testimonial-box .author {
-  color: #fff;
+  color: rgb(255, 255, 255);
   text-transform: uppercase;
   font-weight: 600;
   margin: 1rem 0;
@@ -1103,7 +1103,7 @@ a:hover {
 .testimonial-box .comit {
   font-size: 2rem;
   color: #0000ff;
-  background-color: #fff;
+  background-color: rgb(18, 18, 18);
   width: 52px;
   height: 52px;
   display: block;
@@ -1138,12 +1138,12 @@ a:hover {
 .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(18, 18, 18, 0.4);
   opacity: 1;
 }
 
 .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #fff;
+  background-color: rgb(18, 18, 18);
 }
 
 /*--------------------------------------------------------------
@@ -1166,7 +1166,7 @@ a:hover {
 
 .php-email-form .error-message {
   display: none;
-  color: #fff;
+  color: rgb(18, 18, 18);
   background: #ed3c0d;
   text-align: center;
   padding: 15px;
@@ -1175,7 +1175,7 @@ a:hover {
 
 .php-email-form .sent-message {
   display: none;
-  color: #fff;
+  color: rgb(18, 18, 18);
   background: #18d26e;
   text-align: center;
   padding: 15px;
@@ -1184,7 +1184,7 @@ a:hover {
 
 .php-email-form .loading {
   display: none;
-  background: #fff;
+  background: rgb(18, 18, 18);
   text-align: center;
   padding: 15px;
 }
@@ -1227,7 +1227,7 @@ a:hover {
   background: #0000ff;
   border: 0;
   padding: 10px 24px;
-  color: #fff;
+  color: rgb(18, 18, 18);
   transition: 0.4s;
 }
 
@@ -1280,7 +1280,7 @@ a:hover {
 
 .card-blog .card-category {
   display: inline-block;
-  color: #fff;
+  color: rgb(18, 18, 18);
   padding: 0 15px 5px;
   overflow: hidden;
   background-color: #0000ff;
@@ -1288,7 +1288,7 @@ a:hover {
 }
 
 .card-blog .card-category .category {
-  color: #fff;
+  color: rgb(18, 18, 18);
   display: inline-block;
   text-transform: uppercase;
   font-size: 0.7rem;
@@ -1302,7 +1302,7 @@ a:hover {
 }
 
 .card-blog .card-description {
-  color: #4e4e4e;
+  color: rgb(190, 190, 190);
 }
 
 .card-blog .post-author {
@@ -1310,7 +1310,7 @@ a:hover {
 }
 
 .card-blog .post-date {
-  color: #4e4e4e;
+  color: rgb(190, 190, 190);
   display: inline-block;
   float: right;
 }
@@ -1323,7 +1323,7 @@ a:hover {
 .box-comments,
 .widget-sidebar {
   padding: 2rem;
-  background-color: #fff;
+  background-color: rgb(18, 18, 18);
   margin-bottom: 3rem;
 }
 
@@ -1445,7 +1445,7 @@ a:hover {
 }
 
 .sidebar-search input {
-  background-color: #fff;
+  background-color: rgb(18, 18, 18);
   border-radius: 0;
   transition: all 0.5s ease-in-out;
 }
@@ -1467,7 +1467,7 @@ a:hover {
 }
 
 .widget-tags ul li a {
-  color: #fff;
+  color: rgb(18, 18, 18);
 }
 
 /*--------------------------------------------------------------
@@ -1475,7 +1475,7 @@ a:hover {
 --------------------------------------------------------------*/
 footer {
   text-align: center;
-  color: #fff;
+  color: rgb(255, 255, 255);
   padding: 25px 0;
   background: #0000d3;
 }
@@ -1489,5 +1489,5 @@ footer .credits {
 }
 
 footer .credits a {
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
