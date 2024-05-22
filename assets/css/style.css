@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #3c00ff;
+  color: #1f7220;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -40,7 +40,7 @@ a:hover {
 
 .color-a {
   text-decoration: none;
-  color: #3c00ff;
+  color: #1f7220;
 }
 
 .color-d {
@@ -57,13 +57,13 @@ a:hover {
 .work-box,
 .service-box,
 .paralax-mf {
-  box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.226);
 }
 
 .box-shadow-a,
 .button:hover {
   text-decoration: none;
-  box-shadow: 0 0 0 4px #cde1f8;
+  box-shadow: 0 0 0 4px #cdf8d4;
 }
 
 .display-5 {
@@ -99,7 +99,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #3c00ff;
+  background-color: #1f7220cc;
 }
 
 .overlay-mf {
@@ -168,7 +168,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #3c00ff;
+  background-color: #1f7220;
   margin: 0 auto;
 }
 
@@ -186,7 +186,7 @@ a:hover {
   content: "";
   position: absolute;
   height: 3px;
-  background-color: #3c00ff;
+  background-color: #1f7220;
   width: 100px;
   bottom: -12px;
 }
@@ -227,14 +227,14 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #3c00ff;
+  box-shadow: 0 0 0 3px #1f7220;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #3c00ff;
+  background-color: #1f7220;
   color: rgb(18, 18, 18);
-  box-shadow: 0 0 0 3px #cde1f8;
+  box-shadow: 0 0 0 3px #cdf8d4;
   transition: all 500ms ease;
 }
 
@@ -256,7 +256,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #3c00ff;
+  color: #1f7220;
   margin-right: 10px;
 }
 
@@ -269,7 +269,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #3c00ff;
+  box-shadow: 0 0 0 10px #1f7220;
   display: block;
 }
 
@@ -299,7 +299,7 @@ a:hover {
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #cde1f8;
+  background-color: #cdf8d4;
   width: 25px;
 }
 
@@ -314,7 +314,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #3c00ff;
+  background-color: #1f7220;
   opacity: 0.7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -338,7 +338,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #3c00ff;
+  background: #1f7220;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -352,7 +352,7 @@ a:hover {
 }
 
 .back-to-top:hover {
-  background: #3c00ff;
+  background: #1f7220;
   color: rgb(18, 18, 18);
 }
 
@@ -379,7 +379,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #3c00ff;
+  border-top: 6px solid #1f7220;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -428,16 +428,16 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #0000d3;
+  background-color: #284b2e;
   color: rgb(255, 255, 255);
   transition: all 500ms ease;
 }
 
 .button-a {
   text-decoration: none;
-  background-color: #3c00ff;
+  background-color: #1f7220;
   color: rgb(255, 255, 255);
-  border-color: #cde1f8;
+  border-color: #cdf8d4;
 }
 
 .button-big {
@@ -600,7 +600,7 @@ a:hover {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #3c00ff;
+  color: #1f7220;
 }
 
 .navbar .dropdown:hover>ul {
@@ -705,7 +705,7 @@ a:hover {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #3c00ff;
+  color: #1f7220;
 }
 
 .navbar-mobile .getstarted,
@@ -740,7 +740,7 @@ a:hover {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #3c00ff;
+  color: #1f7220;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -826,15 +826,15 @@ a:hover {
 
 .hero-single .breadcrumb {
   background-color: transparent;
-  color: #3c00ff;
+  color: #1f7220;
 }
 
 .hero-single .breadcrumb .breadcrumb-item:before {
-  color: #cde1f8;
+  color: #cdf8d4;
 }
 
 .hero-single .breadcrumb .breadcrumb-item.active {
-  color: #cde1f8;
+  color: #cdf8d4;
 }
 
 .hero-single .breadcrumb a {
@@ -869,7 +869,7 @@ a:hover {
 }
 
 .skill-mf .progress {
-  background-color: #cde1f8;
+  background-color: #cdf8d4;
   margin: 0.5rem 0 1.2rem 0;
   border-radius: 0;
   height: 0.7rem;
@@ -877,7 +877,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #3c00ff;
+  background-color: #1f7220;
 }
 
 /*--------------------------------------------------------------
@@ -894,8 +894,8 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: rgb(18, 18, 18);
-  background-color: #3c00ff;
-  box-shadow: 0 0 0 10px #cde1f8;
+  background-color: #1f7220;
+  box-shadow: 0 0 0 10px #cdf8d4;
 }
 
 .service-box .service-ico {
@@ -989,17 +989,17 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #4e4eff;
+  color: #b8f9c3;
 }
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #4e4eff;
+  color: #b8f9c3;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #4e4eff;
+  color: #b8f9c3;
 }
 
 .work-content .w-like .num-like {
@@ -1031,11 +1031,11 @@ a:hover {
   height: 12px;
   background-color: rgb(18, 18, 18);
   opacity: 1;
-  border: 1px solid #3c00ff;
+  border: 1px solid #1f7220;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #3c00ff;
+  background-color: #1f7220;
 }
 
 .portfolio-details .portfolio-info {
@@ -1100,9 +1100,18 @@ a:hover {
   font-size: 1.4rem;
 }
 
+.testimonial-box .author-subtitle {
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 1rem 0.2;
+  display: block;
+  font-size: 1rem;
+}
+
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #3c00ff;
+  color: #1f7220;
   background-color: rgb(18, 18, 18);
   width: 52px;
   height: 52px;
@@ -1211,7 +1220,7 @@ a:hover {
 
 .php-email-form input:focus,
 .php-email-form textarea:focus {
-  border-color: #3c00ff;
+  border-color: #1f7220;
 }
 
 .php-email-form input {
@@ -1224,7 +1233,7 @@ a:hover {
 }
 
 .php-email-form button[type=submit] {
-  background: #3c00ff;
+  background: #1f7220;
   border: 0;
   padding: 10px 24px;
   color: rgb(18, 18, 18);
@@ -1232,7 +1241,7 @@ a:hover {
 }
 
 .php-email-form button[type=submit]:hover {
-  background: #3393ff;
+  background: #18d26e;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1283,7 +1292,7 @@ a:hover {
   color: rgb(18, 18, 18);
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #3c00ff;
+  background-color: #1f7220;
   border-radius: 4px;
 }
 
@@ -1352,7 +1361,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #3c00ff;
+  border-left: 4px solid #1f7220;
   margin-top: 1rem;
 }
 
@@ -1362,7 +1371,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #3c00ff;
+  color: #1f7220;
 }
 
 .blog-wrapper .post-meta ul span {
@@ -1370,7 +1379,7 @@ a:hover {
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #3c00ff;
+  border-left: 4px solid #1f7220;
   padding: 18px;
   font-style: italic;
 }
@@ -1407,7 +1416,7 @@ a:hover {
 }
 
 .box-comments .list-comments a {
-  color: #3c00ff;
+  color: #1f7220;
 }
 
 .box-comments .list-comments span {
@@ -1423,7 +1432,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #3c00ff;
+  border-left: 5px solid #1f7220;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1440,7 +1449,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #3c00ff;
+  background-color: #1f7220;
   top: 20px;
 }
 
@@ -1451,8 +1460,8 @@ a:hover {
 }
 
 .sidebar-search .btn-search {
-  background-color: #3c00ff;
-  border-color: #3c00ff;
+  background-color: #1f7220;
+  border-color: #1f7220;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1460,7 +1469,7 @@ a:hover {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #0000ff;
+  background-color: #284b2e;
   padding: 0.2rem 0.6rem;
   margin-bottom: 0.5rem;
   border-radius: 15px;
@@ -1477,7 +1486,7 @@ footer {
   text-align: center;
   color: rgb(255, 255, 255);
   padding: 25px 0;
-  background: #0000d3;
+  background: #284b2e;
 }
 
 footer .copyright {
